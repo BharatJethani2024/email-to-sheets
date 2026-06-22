@@ -1,0 +1,8 @@
+# Make.com blueprint exports can contain connection IDs — keep them out of the public repo
+*.blueprint.json
+blueprint*.json
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
